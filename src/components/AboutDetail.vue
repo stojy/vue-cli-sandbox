@@ -1,7 +1,5 @@
-<template>
-  <div>
-    <h1>{{ name }}</h1>
-  </div>
+<template lang="pug">
+h1 {{ name }}
 </template>
 
 <script>
